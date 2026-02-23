@@ -1,4 +1,6 @@
-## Hi! Please go to the original source and fork it.
+## Hi! 
+
+HI! If you want your own, please go to the original project and fork it.
 
 
 
@@ -91,6 +93,7 @@ Place your files into the `assets/` folder with these exact filenames:
 
 ![Image](https://github.com/user-attachments/assets/feed39df-8b60-46d5-9bf8-b12a5bb70395)
 ![Image](https://github.com/user-attachments/assets/8ee03242-3c84-400f-8d6d-2b376f49ab4f)
+
 
 
 
