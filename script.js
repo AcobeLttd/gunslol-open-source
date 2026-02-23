@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "JAQLIV";
+  const name = "Acobe";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
@@ -236,8 +236,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
-    "\"Hello, World!\""
+    "Hewwooo! I'm Acobe, also known as lttd.",
+    "Mrrrp mrrow""
   ];
   let bioText = '';
   let bioIndex = 0;
@@ -265,7 +265,7 @@ document.addEventListener('DOMContentLoaded', () => {
       profileBio.classList.add('glitch');
       setTimeout(() => profileBio.classList.remove('glitch'), 200);
     }
-    setTimeout(typeWriterBio, isBioDeleting ? 75 : 150);
+    setTimeout(typeWriterBio, isBioDeleting ? 20 : 20);
   }
 
   setInterval(() => {
@@ -668,4 +668,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   typeWriterStart();
+
 });
